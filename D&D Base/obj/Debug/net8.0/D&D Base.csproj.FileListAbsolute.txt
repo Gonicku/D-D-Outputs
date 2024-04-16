@@ -1,0 +1,14 @@
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\bin\Debug\net8.0\D&D Base.exe
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\bin\Debug\net8.0\D&D Base.deps.json
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\bin\Debug\net8.0\D&D Base.runtimeconfig.json
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\bin\Debug\net8.0\D&D Base.dll
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\bin\Debug\net8.0\D&D Base.pdb
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.AssemblyInfoInputs.cache
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.AssemblyInfo.cs
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.csproj.CoreCompileInputs.cache
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.dll
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\refint\D&D Base.dll
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.pdb
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.genruntimeconfig.cache
+c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\ref\D&D Base.dll
