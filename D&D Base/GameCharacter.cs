@@ -1,4 +1,7 @@
 
+/** GameCharacter
+*   An abstract superclass that holds the base information for both playable and enemy characters.
+*/
 public abstract class GameCharacter
 {
     // Enums & Variables

@@ -1,4 +1,7 @@
 
+/** Monster
+*   A subclass of the GameCharacter class that is used for any non-playable enemy characters.
+*/
 public class Monster : GameCharacter
 {
     public Monster(int level, int health, int strength, int dexterity, int speed, int intelligence, int armor)

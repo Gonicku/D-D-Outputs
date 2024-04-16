@@ -1,4 +1,6 @@
-
+/** RPGFunctions
+*   Acts as the main class to run all our code
+*/
 public class RPGFunctions
 {
     public static void Main(string[] args)
@@ -10,5 +12,7 @@ public class RPGFunctions
         
         Console.WriteLine("Monster Stats\nLevel: " + monster.getStat("Level") + "\nHealth: " + monster.getStat("Health"));
         Console.WriteLine("Player Stats\nLevel: " + player.getStat("Level") + "\nHealth: " + player.getStat("Health"));
+
+
     }
 }

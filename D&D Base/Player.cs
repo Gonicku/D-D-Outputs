@@ -1,3 +1,6 @@
+/** Player
+*   A subclass of the GameCharacter class that is used for any playable characters.
+*/
 public class Player : GameCharacter
 {
     public Player(int level, int health, int strength, int dexterity, int speed, int intelligence, int armor)
