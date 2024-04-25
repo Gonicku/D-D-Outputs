@@ -4,7 +4,8 @@
 */
 public class Monster : GameCharacter
 {
-    public Monster(int level, int health, int strength, int dexterity, int speed, int intelligence, int armor)
+    public int droppedEXP, droppedGold;
+    public Monster(int level, int health, int strength, int dexterity, int speed, int intelligence, int armor, int exp, int gold)
     {
         this.level = level;
         this.health = health;
@@ -13,5 +14,7 @@ public class Monster : GameCharacter
         this.speed = speed;
         this.intelligence = intelligence;
         this.armor = armor;
+        this.droppedEXP = exp;
+        this.droppedGold = gold;
     }
 }

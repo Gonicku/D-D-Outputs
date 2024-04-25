@@ -12,3 +12,4 @@ c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\refint
 c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.pdb
 c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.genruntimeconfig.cache
 c:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\ref\D&D Base.dll
+C:\Users\denal\Desktop\Intern Stuff\D&D Outputs\D&D Base\obj\Debug\net8.0\D&D Base.sourcelink.json
